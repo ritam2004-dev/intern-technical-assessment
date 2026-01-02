@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:3000/api/v1",
+  baseURL: "https://internal-technical-assessment.onrender.com/api/v1",
   withCredentials: true, // IMPORTANT for JWT cookies
   headers: {
     "Content-Type": "application/json",

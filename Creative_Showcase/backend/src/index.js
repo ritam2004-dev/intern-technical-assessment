@@ -2,7 +2,6 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import cookieParser from "cookie-parser";
-import rateLimit from "express-rate-limit";
 import connectDB from "./config/db.js";
 import authRoutes from "./routes/auth.routes.js";
 import imageRoutes from "./routes/image.routes.js";
@@ -15,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://creative-showcase-amarnath-kumar.vercel.app",
+      "https://creative-showcase-nine.vercel.app/",
     ],
     credentials: true,
   })
