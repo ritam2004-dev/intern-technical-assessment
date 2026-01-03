@@ -1,14 +1,5 @@
 # 🏏 Cricket World Cup Insights – BI & Data Visualization
 
-🔗 **Live Dashboard (Google Looker Studio):**
-
-- https://lookerstudio.google.com/s/iCKzusO4oSg
-  or
-- https://lookerstudio.google.com/reporting/cb578970-3b69-4fcd-a6f7-abc97f32cf65
-  or
-- [Dashboard Preview](./Cricket_World_Cup_Insights.pdf)
-
----
 
 ## Project Overview
 
