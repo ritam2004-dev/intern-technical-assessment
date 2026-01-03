@@ -19,7 +19,7 @@ export default function App() {
           Server is starting up, please wait...
         </h1>
         <p className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-sm text-gray-400">
-          Creative Showcase © {new Date().getFullYear()} | Amarnath Kumar
+          Creative Showcase © {new Date().getFullYear()} | Ritam Khatua
         </p>
       </div>
     );
