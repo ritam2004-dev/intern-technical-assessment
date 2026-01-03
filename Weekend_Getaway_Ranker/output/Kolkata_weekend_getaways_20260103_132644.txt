@@ -1,0 +1,34 @@
+==============================================================================
+WEEKEND GETAWAY RECOMMENDATIONS FROM KOLKATA
+==============================================================================
+Generated on: Saturday, January 03, 2026 at 01:26:44 PM
+Total Destinations Found: 3
+==============================================================================
+
+#1 SUNDARBANS NATIONAL PARK
+------------------------------------------------------------------------------
+  Location   : Sundarbans, West Bengal
+  Distance   : 87.48 km
+  Rating     : 4.4 / 5.0
+  Popularity : 0.07 lakhs reviews
+  Score      : 0.7060
+
+#2 DIGHA BEACH
+------------------------------------------------------------------------------
+  Location   : Digha, West Bengal
+  Distance   : 137.28 km
+  Rating     : 4.5 / 5.0
+  Popularity : 0.09 lakhs reviews
+  Score      : 0.6925
+
+#3 KANKALITALA TEMPLE
+------------------------------------------------------------------------------
+  Location   : Bolpur, West Bengal
+  Distance   : 141.76 km
+  Rating     : 4.7 / 5.0
+  Popularity : 0.04 lakhs reviews
+  Score      : 0.5500
+
+==============================================================================
+END OF REPORT
+==============================================================================

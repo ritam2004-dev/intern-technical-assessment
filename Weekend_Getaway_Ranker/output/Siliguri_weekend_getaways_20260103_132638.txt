@@ -1,0 +1,50 @@
+==============================================================================
+WEEKEND GETAWAY RECOMMENDATIONS FROM SILIGURI
+==============================================================================
+Generated on: Saturday, January 03, 2026 at 01:26:38 PM
+Total Destinations Found: 5
+==============================================================================
+
+#1 TSOMGO LAKE
+------------------------------------------------------------------------------
+  Location   : Gangtok, Sikkim
+  Distance   : 70.61 km
+  Rating     : 4.5 / 5.0
+  Popularity : 0.15 lakhs reviews
+  Score      : 0.7969
+
+#2 NATHULA PASS
+------------------------------------------------------------------------------
+  Location   : Gangtok, Sikkim
+  Distance   : 70.61 km
+  Rating     : 4.3 / 5.0
+  Popularity : 0.15 lakhs reviews
+  Score      : 0.7799
+
+#3 GORUMARA NATIONAL PARK
+------------------------------------------------------------------------------
+  Location   : Jalpaiguri, West Bengal
+  Distance   : 39.13 km
+  Rating     : 4.4 / 5.0
+  Popularity : 0.07 lakhs reviews
+  Score      : 0.7113
+
+#4 BABA HARBHAJAN SINGH TEMPLE
+------------------------------------------------------------------------------
+  Location   : Gangtok, Sikkim
+  Distance   : 70.61 km
+  Rating     : 4.7 / 5.0
+  Popularity : 0.07 lakhs reviews
+  Score      : 0.6639
+
+#5 TIGER HILL
+------------------------------------------------------------------------------
+  Location   : Darjeeling, West Bengal
+  Distance   : 37.17 km
+  Rating     : 4.5 / 5.0
+  Popularity : 0.03 lakhs reviews
+  Score      : 0.6350
+
+==============================================================================
+END OF REPORT
+==============================================================================

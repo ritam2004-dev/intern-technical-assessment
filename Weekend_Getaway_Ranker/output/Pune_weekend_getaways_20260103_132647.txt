@@ -1,0 +1,50 @@
+==============================================================================
+WEEKEND GETAWAY RECOMMENDATIONS FROM PUNE
+==============================================================================
+Generated on: Saturday, January 03, 2026 at 01:26:47 PM
+Total Destinations Found: 5
+==============================================================================
+
+#1 GATEWAY OF INDIA
+------------------------------------------------------------------------------
+  Location   : Mumbai, Maharastra
+  Distance   : 120.15 km
+  Rating     : 4.6 / 5.0
+  Popularity : 3.60 lakhs reviews
+  Score      : 0.6833
+
+#2 KARLA CAVES
+------------------------------------------------------------------------------
+  Location   : Lonavala, Maharastra
+  Distance   : 53.96 km
+  Rating     : 4.4 / 5.0
+  Popularity : 0.27 lakhs reviews
+  Score      : 0.5544
+
+#3 MARINE DRIVE
+------------------------------------------------------------------------------
+  Location   : Mumbai, Maharastra
+  Distance   : 120.15 km
+  Rating     : 4.5 / 5.0
+  Popularity : 1.50 lakhs reviews
+  Score      : 0.5000
+
+#4 SIDDHIVINAYAK TEMPLE
+------------------------------------------------------------------------------
+  Location   : Mumbai, Maharastra
+  Distance   : 120.15 km
+  Rating     : 4.8 / 5.0
+  Popularity : 1.05 lakhs reviews
+  Score      : 0.4875
+
+#5 ECHO POINT
+------------------------------------------------------------------------------
+  Location   : Matheran, Maharashtra
+  Distance   : 81.00 km
+  Rating     : 4.4 / 5.0
+  Popularity : 0.02 lakhs reviews
+  Score      : 0.4661
+
+==============================================================================
+END OF REPORT
+==============================================================================
